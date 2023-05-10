@@ -1,0 +1,155 @@
+[
+ {
+   "id": 1,
+   "psgc_code": 10000000,
+   "region_name": "Region I (Ilocos Region)",
+   "region_code": 1,
+   "philex_id": 1,
+   "value": 1,
+   "label": "Region I (Ilocos Region)"
+ },
+ {
+   "id": 2,
+   "psgc_code": 20000000,
+   "region_name": "Region II (Cagayan Valley)",
+   "region_code": 2,
+   "philex_id": 1,
+   "value": 2,
+   "label": "Region II (Cagayan Valley)"
+ },
+ {
+   "id": 3,
+   "psgc_code": 30000000,
+   "region_name": "Region III (Central Luzon)",
+   "region_code": 3,
+   "philex_id": 1,
+   "value": 3,
+   "label": "Region III (Central Luzon)"
+ },
+ {
+   "id": 4,
+   "psgc_code": 40000000,
+   "region_name": "Region IV-A (CALABARZON)",
+   "region_code": 4,
+   "philex_id": 1,
+   "value": 4,
+   "label": "Region IV-A (CALABARZON)"
+ },
+ {
+   "id": 5,
+   "psgc_code": 170000000,
+   "region_name": "Region IV-B (MIMAROPA)",
+   "region_code": 17,
+   "philex_id": 1,
+   "value": 5,
+   "label": "Region IV-B (MIMAROPA)"
+ },
+ {
+   "id": 6,
+   "psgc_code": 50000000,
+   "region_name": "Region V (Bicol Region)",
+   "region_code": 5,
+   "philex_id": 1,
+   "value": 6,
+   "label": "Region V (Bicol Region)"
+ },
+ {
+   "id": 7,
+   "psgc_code": 60000000,
+   "region_name": "Region VI (Western Visayas)",
+   "region_code": 6,
+   "philex_id": 2,
+   "value": 7,
+   "label": "Region VI (Western Visayas)"
+ },
+ {
+   "id": 8,
+   "psgc_code": 70000000,
+   "region_name": "Region VII (Central Visayas)",
+   "region_code": 7,
+   "philex_id": 2,
+   "value": 8,
+   "label": "Region VII (Central Visayas)"
+ },
+ {
+   "id": 9,
+   "psgc_code": 80000000,
+   "region_name": "Region VIII (Eastern Visayas)",
+   "region_code": 8,
+   "philex_id": 2,
+   "value": 9,
+   "label": "Region VIII (Eastern Visayas)"
+ },
+ {
+   "id": 10,
+   "psgc_code": 90000000,
+   "region_name": "Region IX (Zamboanga Peninzula)",
+   "region_code": 9,
+   "philex_id": 3,
+   "value": 10,
+   "label": "Region IX (Zamboanga Peninzula)"
+ },
+ {
+   "id": 11,
+   "psgc_code": 100000000,
+   "region_name": "Region X (Northern Mindanao)",
+   "region_code": 10,
+   "philex_id": 3,
+   "value": 11,
+   "label": "Region X (Northern Mindanao)"
+ },
+ {
+   "id": 12,
+   "psgc_code": 110000000,
+   "region_name": "Region XI (Davao Region)",
+   "region_code": 11,
+   "philex_id": 3,
+   "value": 12,
+   "label": "Region XI (Davao Region)"
+ },
+ {
+   "id": 13,
+   "psgc_code": 120000000,
+   "region_name": "Region XII (SOCCSKSARGEN)",
+   "region_code": 12,
+   "philex_id": 3,
+   "value": 13,
+   "label": "Region XII (SOCCSKSARGEN)"
+ },
+ {
+   "id": 14,
+   "psgc_code": 130000000,
+   "region_name": "National Capital Region (NCR)",
+   "region_code": 13,
+   "philex_id": 1,
+   "value": 14,
+   "label": "National Capital Region (NCR)"
+ },
+ {
+   "id": 15,
+   "psgc_code": 140000000,
+   "region_name": "Cordillera Administrative Region (CAR)",
+   "region_code": 14,
+   "philex_id": 1,
+   "value": 15,
+   "label": "Cordillera Administrative Region (CAR)"
+ },
+ {
+   "id": 16,
+   "psgc_code": 150000000,
+   "region_name": "Autonomous Region in Muslim Mindanao (ARMM)",
+   "region_code": 15,
+   "philex_id": 3,
+   "value": 16,
+   "label": "Autonomous Region in Muslim Mindanao (ARMM)"
+ },
+ {
+   "id": 17,
+   "psgc_code": 160000000,
+   "region_name": "Region XIII (Caraga)",
+   "region_code": 16,
+   "philex_id": 3,
+   "value": 17,
+   "label": "Region XIII (Caraga)"
+ }
+]

@@ -1,0 +1,794 @@
+[
+ {
+   "province_code": 128,
+   "province_name": "Ilocos Norte",
+   "psgc_code": 12800000,
+   "region_code": 1,
+   "philex_id": "",
+   "value": 128,
+   "label": "Ilocos Norte"
+ },
+ {
+   "province_code": 129,
+   "province_name": "Ilocos Sur",
+   "psgc_code": 12900000,
+   "region_code": 1,
+   "philex_id": "",
+   "value": 129,
+   "label": "Ilocos Sur"
+ },
+ {
+   "province_code": 133,
+   "province_name": "La Union",
+   "psgc_code": 13300000,
+   "region_code": 1,
+   "philex_id": "",
+   "value": 133,
+   "label": "La Union"
+ },
+ {
+   "province_code": 155,
+   "province_name": "Pangasinan",
+   "psgc_code": 15500000,
+   "region_code": 1,
+   "philex_id": "",
+   "value": 155,
+   "label": "Pangasinan"
+ },
+ {
+   "province_code": 209,
+   "province_name": "Batanes",
+   "psgc_code": 20900000,
+   "region_code": 2,
+   "philex_id": "",
+   "value": 209,
+   "label": "Batanes"
+ },
+ {
+   "province_code": 215,
+   "province_name": "Cagayan",
+   "psgc_code": 21500000,
+   "region_code": 2,
+   "philex_id": "",
+   "value": 215,
+   "label": "Cagayan"
+ },
+ {
+   "province_code": 231,
+   "province_name": "Isabela",
+   "psgc_code": 23100000,
+   "region_code": 2,
+   "philex_id": "",
+   "value": 231,
+   "label": "Isabela"
+ },
+ {
+   "province_code": 250,
+   "province_name": "Nueva Vizcaya",
+   "psgc_code": 25000000,
+   "region_code": 2,
+   "philex_id": "",
+   "value": 250,
+   "label": "Nueva Vizcaya"
+ },
+ {
+   "province_code": 257,
+   "province_name": "Quirino",
+   "psgc_code": 25700000,
+   "region_code": 2,
+   "philex_id": "",
+   "value": 257,
+   "label": "Quirino"
+ },
+ {
+   "province_code": 308,
+   "province_name": "Bataan",
+   "psgc_code": 30800000,
+   "region_code": 3,
+   "philex_id": "",
+   "value": 308,
+   "label": "Bataan"
+ },
+ {
+   "province_code": 314,
+   "province_name": "Bulacan",
+   "psgc_code": 31400000,
+   "region_code": 3,
+   "philex_id": "",
+   "value": 314,
+   "label": "Bulacan"
+ },
+ {
+   "province_code": 349,
+   "province_name": "Nueva Ecija",
+   "psgc_code": 34900000,
+   "region_code": 3,
+   "philex_id": "",
+   "value": 349,
+   "label": "Nueva Ecija"
+ },
+ {
+   "province_code": 354,
+   "province_name": "Pampanga",
+   "psgc_code": 35400000,
+   "region_code": 3,
+   "philex_id": "",
+   "value": 354,
+   "label": "Pampanga"
+ },
+ {
+   "province_code": 369,
+   "province_name": "Tarlac",
+   "psgc_code": 36900000,
+   "region_code": 3,
+   "philex_id": "",
+   "value": 369,
+   "label": "Tarlac"
+ },
+ {
+   "province_code": 371,
+   "province_name": "Zambales",
+   "psgc_code": 37100000,
+   "region_code": 3,
+   "philex_id": "",
+   "value": 371,
+   "label": "Zambales"
+ },
+ {
+   "province_code": 377,
+   "province_name": "Aurora",
+   "psgc_code": 37700000,
+   "region_code": 3,
+   "philex_id": "",
+   "value": 377,
+   "label": "Aurora"
+ },
+ {
+   "province_code": 410,
+   "province_name": "Batangas",
+   "psgc_code": 41000000,
+   "region_code": 4,
+   "philex_id": "",
+   "value": 410,
+   "label": "Batangas"
+ },
+ {
+   "province_code": 421,
+   "province_name": "Cavite",
+   "psgc_code": 42100000,
+   "region_code": 4,
+   "philex_id": "",
+   "value": 421,
+   "label": "Cavite"
+ },
+ {
+   "province_code": 434,
+   "province_name": "Laguna",
+   "psgc_code": 43400000,
+   "region_code": 4,
+   "philex_id": "",
+   "value": 434,
+   "label": "Laguna"
+ },
+ {
+   "province_code": 456,
+   "province_name": "Quezon",
+   "psgc_code": 45600000,
+   "region_code": 4,
+   "philex_id": "",
+   "value": 456,
+   "label": "Quezon"
+ },
+ {
+   "province_code": 458,
+   "province_name": "Rizal",
+   "psgc_code": 45800000,
+   "region_code": 4,
+   "philex_id": "",
+   "value": 458,
+   "label": "Rizal"
+ },
+ {
+   "province_code": 1740,
+   "province_name": "Marinduque",
+   "psgc_code": 174000000,
+   "region_code": 17,
+   "philex_id": "",
+   "value": 1740,
+   "label": "Marinduque"
+ },
+ {
+   "province_code": 1751,
+   "province_name": "Occidental Mindoro",
+   "psgc_code": 175100000,
+   "region_code": 17,
+   "philex_id": "",
+   "value": 1751,
+   "label": "Occidental Mindoro"
+ },
+ {
+   "province_code": 1752,
+   "province_name": "Oriental Mindoro",
+   "psgc_code": 175200000,
+   "region_code": 17,
+   "philex_id": "",
+   "value": 1752,
+   "label": "Oriental Mindoro"
+ },
+ {
+   "province_code": 1753,
+   "province_name": "Palawan",
+   "psgc_code": 175300000,
+   "region_code": 17,
+   "philex_id": "",
+   "value": 1753,
+   "label": "Palawan"
+ },
+ {
+   "province_code": 1759,
+   "province_name": "Romblon",
+   "psgc_code": 175900000,
+   "region_code": 17,
+   "philex_id": "",
+   "value": 1759,
+   "label": "Romblon"
+ },
+ {
+   "province_code": 505,
+   "province_name": "Albay",
+   "psgc_code": 50500000,
+   "region_code": 5,
+   "philex_id": "",
+   "value": 505,
+   "label": "Albay"
+ },
+ {
+   "province_code": 516,
+   "province_name": "Camarines Norte",
+   "psgc_code": 51600000,
+   "region_code": 5,
+   "philex_id": "",
+   "value": 516,
+   "label": "Camarines Norte"
+ },
+ {
+   "province_code": 517,
+   "province_name": "Camarines Sur",
+   "psgc_code": 51700000,
+   "region_code": 5,
+   "philex_id": "",
+   "value": 517,
+   "label": "Camarines Sur"
+ },
+ {
+   "province_code": 520,
+   "province_name": "Catanduanes",
+   "psgc_code": 52000000,
+   "region_code": 5,
+   "philex_id": "",
+   "value": 520,
+   "label": "Catanduanes"
+ },
+ {
+   "province_code": 541,
+   "province_name": "Masbate",
+   "psgc_code": 54100000,
+   "region_code": 5,
+   "philex_id": "",
+   "value": 541,
+   "label": "Masbate"
+ },
+ {
+   "province_code": 562,
+   "province_name": "Sorsogon",
+   "psgc_code": 56200000,
+   "region_code": 5,
+   "philex_id": "",
+   "value": 562,
+   "label": "Sorsogon"
+ },
+ {
+   "province_code": 604,
+   "province_name": "Aklan",
+   "psgc_code": 60400000,
+   "region_code": 6,
+   "philex_id": "",
+   "value": 604,
+   "label": "Aklan"
+ },
+ {
+   "province_code": 606,
+   "province_name": "Antique",
+   "psgc_code": 60600000,
+   "region_code": 6,
+   "philex_id": "",
+   "value": 606,
+   "label": "Antique"
+ },
+ {
+   "province_code": 619,
+   "province_name": "Capiz",
+   "psgc_code": 61900000,
+   "region_code": 6,
+   "philex_id": "",
+   "value": 619,
+   "label": "Capiz"
+ },
+ {
+   "province_code": 630,
+   "province_name": "Iloilo",
+   "psgc_code": 63000000,
+   "region_code": 6,
+   "philex_id": "",
+   "value": 630,
+   "label": "Iloilo"
+ },
+ {
+   "province_code": 645,
+   "province_name": "Negros Occidental",
+   "psgc_code": 64500000,
+   "region_code": 6,
+   "philex_id": "",
+   "value": 645,
+   "label": "Negros Occidental"
+ },
+ {
+   "province_code": 679,
+   "province_name": "Guimaras",
+   "psgc_code": 67900000,
+   "region_code": 6,
+   "philex_id": "",
+   "value": 679,
+   "label": "Guimaras"
+ },
+ {
+   "province_code": 712,
+   "province_name": "Bohol",
+   "psgc_code": 71200000,
+   "region_code": 7,
+   "philex_id": "",
+   "value": 712,
+   "label": "Bohol"
+ },
+ {
+   "province_code": 722,
+   "province_name": "Cebu",
+   "psgc_code": 72200000,
+   "region_code": 7,
+   "philex_id": "",
+   "value": 722,
+   "label": "Cebu"
+ },
+ {
+   "province_code": 746,
+   "province_name": "Negros Oriental",
+   "psgc_code": 74600000,
+   "region_code": 7,
+   "philex_id": "",
+   "value": 746,
+   "label": "Negros Oriental"
+ },
+ {
+   "province_code": 761,
+   "province_name": "Siquijor",
+   "psgc_code": 76100000,
+   "region_code": 7,
+   "philex_id": "",
+   "value": 761,
+   "label": "Siquijor"
+ },
+ {
+   "province_code": 826,
+   "province_name": "Eastern Samar",
+   "psgc_code": 82600000,
+   "region_code": 8,
+   "philex_id": "",
+   "value": 826,
+   "label": "Eastern Samar"
+ },
+ {
+   "province_code": 837,
+   "province_name": "Leyte",
+   "psgc_code": 83700000,
+   "region_code": 8,
+   "philex_id": "",
+   "value": 837,
+   "label": "Leyte"
+ },
+ {
+   "province_code": 848,
+   "province_name": "Northern Samar",
+   "psgc_code": 84800000,
+   "region_code": 8,
+   "philex_id": "",
+   "value": 848,
+   "label": "Northern Samar"
+ },
+ {
+   "province_code": 860,
+   "province_name": "Samar (Western Samar)",
+   "psgc_code": 86000000,
+   "region_code": 8,
+   "philex_id": "",
+   "value": 860,
+   "label": "Samar (Western Samar)"
+ },
+ {
+   "province_code": 864,
+   "province_name": "Southern Leyte",
+   "psgc_code": 86400000,
+   "region_code": 8,
+   "philex_id": "",
+   "value": 864,
+   "label": "Southern Leyte"
+ },
+ {
+   "province_code": 878,
+   "province_name": "Biliran",
+   "psgc_code": 87800000,
+   "region_code": 8,
+   "philex_id": "",
+   "value": 878,
+   "label": "Biliran"
+ },
+ {
+   "province_code": 972,
+   "province_name": "Zamboanga Del Norte",
+   "psgc_code": 97200000,
+   "region_code": 9,
+   "philex_id": "",
+   "value": 972,
+   "label": "Zamboanga Del Norte"
+ },
+ {
+   "province_code": 973,
+   "province_name": "Zamboanga Del Sur",
+   "psgc_code": 97300000,
+   "region_code": 9,
+   "philex_id": "",
+   "value": 973,
+   "label": "Zamboanga Del Sur"
+ },
+ {
+   "province_code": 983,
+   "province_name": "Zamboanga Sibugay",
+   "psgc_code": 98300000,
+   "region_code": 9,
+   "philex_id": "",
+   "value": 983,
+   "label": "Zamboanga Sibugay"
+ },
+ {
+   "province_code": 997,
+   "province_name": "City Of Isabela",
+   "psgc_code": 99700000,
+   "region_code": 9,
+   "philex_id": "",
+   "value": 997,
+   "label": "City Of Isabela"
+ },
+ {
+   "province_code": 1013,
+   "province_name": "Bukidnon",
+   "psgc_code": 101300000,
+   "region_code": 10,
+   "philex_id": "",
+   "value": 1013,
+   "label": "Bukidnon"
+ },
+ {
+   "province_code": 1018,
+   "province_name": "Camiguin",
+   "psgc_code": 101800000,
+   "region_code": 10,
+   "philex_id": "",
+   "value": 1018,
+   "label": "Camiguin"
+ },
+ {
+   "province_code": 1035,
+   "province_name": "Lanao Del Norte",
+   "psgc_code": 103500000,
+   "region_code": 10,
+   "philex_id": "",
+   "value": 1035,
+   "label": "Lanao Del Norte"
+ },
+ {
+   "province_code": 1042,
+   "province_name": "Misamis Occidental",
+   "psgc_code": 104200000,
+   "region_code": 10,
+   "philex_id": "",
+   "value": 1042,
+   "label": "Misamis Occidental"
+ },
+ {
+   "province_code": 1043,
+   "province_name": "Misamis Oriental",
+   "psgc_code": 104300000,
+   "region_code": 10,
+   "philex_id": "",
+   "value": 1043,
+   "label": "Misamis Oriental"
+ },
+ {
+   "province_code": 1123,
+   "province_name": "Davao Del Norte",
+   "psgc_code": 112300000,
+   "region_code": 11,
+   "philex_id": "",
+   "value": 1123,
+   "label": "Davao Del Norte"
+ },
+ {
+   "province_code": 1124,
+   "province_name": "Davao Del Sur",
+   "psgc_code": 112400000,
+   "region_code": 11,
+   "philex_id": "",
+   "value": 1124,
+   "label": "Davao Del Sur"
+ },
+ {
+   "province_code": 1125,
+   "province_name": "Davao Oriental",
+   "psgc_code": 112500000,
+   "region_code": 11,
+   "philex_id": "",
+   "value": 1125,
+   "label": "Davao Oriental"
+ },
+ {
+   "province_code": 1182,
+   "province_name": "Compostela Valley",
+   "psgc_code": 118200000,
+   "region_code": 11,
+   "philex_id": "",
+   "value": 1182,
+   "label": "Compostela Valley"
+ },
+ {
+   "province_code": 1186,
+   "province_name": "Davao Occidental",
+   "psgc_code": 118600000,
+   "region_code": 11,
+   "philex_id": "",
+   "value": 1186,
+   "label": "Davao Occidental"
+ },
+ {
+   "province_code": 1247,
+   "province_name": "Cotabato (North Cotabato)",
+   "psgc_code": 124700000,
+   "region_code": 12,
+   "philex_id": "",
+   "value": 1247,
+   "label": "Cotabato (North Cotabato)"
+ },
+ {
+   "province_code": 1263,
+   "province_name": "South Cotabato",
+   "psgc_code": 126300000,
+   "region_code": 12,
+   "philex_id": "",
+   "value": 1263,
+   "label": "South Cotabato"
+ },
+ {
+   "province_code": 1265,
+   "province_name": "Sultan Kudarat",
+   "psgc_code": 126500000,
+   "region_code": 12,
+   "philex_id": "",
+   "value": 1265,
+   "label": "Sultan Kudarat"
+ },
+ {
+   "province_code": 1280,
+   "province_name": "Sarangani",
+   "psgc_code": 128000000,
+   "region_code": 12,
+   "philex_id": "",
+   "value": 1280,
+   "label": "Sarangani"
+ },
+ {
+   "province_code": 1298,
+   "province_name": "Cotabato City",
+   "psgc_code": 129800000,
+   "region_code": 12,
+   "philex_id": "",
+   "value": 1298,
+   "label": "Cotabato City"
+ },
+ {
+   "province_code": 1339,
+   "province_name": "Ncr, City Of Manila, First District",
+   "psgc_code": 133900000,
+   "region_code": 13,
+   "philex_id": "",
+   "value": 1339,
+   "label": "Ncr, City Of Manila, First District"
+ },
+ {
+   "province_code": 1339,
+   "province_name": "City Of Manila",
+   "psgc_code": 133900000,
+   "region_code": 13,
+   "philex_id": "",
+   "value": 1339,
+   "label": "City Of Manila"
+ },
+ {
+   "province_code": 1374,
+   "province_name": "Ncr, Second District",
+   "psgc_code": 137400000,
+   "region_code": 13,
+   "philex_id": "",
+   "value": 1374,
+   "label": "Ncr, Second District"
+ },
+ {
+   "province_code": 1375,
+   "province_name": "Ncr, Third District",
+   "psgc_code": 137500000,
+   "region_code": 13,
+   "philex_id": "",
+   "value": 1375,
+   "label": "Ncr, Third District"
+ },
+ {
+   "province_code": 1376,
+   "province_name": "Ncr, Fourth District",
+   "psgc_code": 137600000,
+   "region_code": 13,
+   "philex_id": "",
+   "value": 1376,
+   "label": "Ncr, Fourth District"
+ },
+ {
+   "province_code": 1401,
+   "province_name": "Abra",
+   "psgc_code": 140100000,
+   "region_code": 14,
+   "philex_id": "",
+   "value": 1401,
+   "label": "Abra"
+ },
+ {
+   "province_code": 1411,
+   "province_name": "Benguet",
+   "psgc_code": 141100000,
+   "region_code": 14,
+   "philex_id": "",
+   "value": 1411,
+   "label": "Benguet"
+ },
+ {
+   "province_code": 1427,
+   "province_name": "Ifugao",
+   "psgc_code": 142700000,
+   "region_code": 14,
+   "philex_id": "",
+   "value": 1427,
+   "label": "Ifugao"
+ },
+ {
+   "province_code": 1432,
+   "province_name": "Kalinga",
+   "psgc_code": 143200000,
+   "region_code": 14,
+   "philex_id": "",
+   "value": 1432,
+   "label": "Kalinga"
+ },
+ {
+   "province_code": 1444,
+   "province_name": "Mountain Province",
+   "psgc_code": 144400000,
+   "region_code": 14,
+   "philex_id": "",
+   "value": 1444,
+   "label": "Mountain Province"
+ },
+ {
+   "province_code": 1481,
+   "province_name": "Apayao",
+   "psgc_code": 148100000,
+   "region_code": 14,
+   "philex_id": "",
+   "value": 1481,
+   "label": "Apayao"
+ },
+ {
+   "province_code": 1507,
+   "province_name": "Basilan",
+   "psgc_code": 150700000,
+   "region_code": 15,
+   "philex_id": "",
+   "value": 1507,
+   "label": "Basilan"
+ },
+ {
+   "province_code": 1536,
+   "province_name": "Lanao Del Sur",
+   "psgc_code": 153600000,
+   "region_code": 15,
+   "philex_id": "",
+   "value": 1536,
+   "label": "Lanao Del Sur"
+ },
+ {
+   "province_code": 1538,
+   "province_name": "Maguindanao",
+   "psgc_code": 153800000,
+   "region_code": 15,
+   "philex_id": "",
+   "value": 1538,
+   "label": "Maguindanao"
+ },
+ {
+   "province_code": 1566,
+   "province_name": "Sulu",
+   "psgc_code": 156600000,
+   "region_code": 15,
+   "philex_id": "",
+   "value": 1566,
+   "label": "Sulu"
+ },
+ {
+   "province_code": 1570,
+   "province_name": "Tawi-tawi",
+   "psgc_code": 157000000,
+   "region_code": 15,
+   "philex_id": "",
+   "value": 1570,
+   "label": "Tawi-tawi"
+ },
+ {
+   "province_code": 1602,
+   "province_name": "Agusan Del Norte",
+   "psgc_code": 160200000,
+   "region_code": 16,
+   "philex_id": "",
+   "value": 1602,
+   "label": "Agusan Del Norte"
+ },
+ {
+   "province_code": 1603,
+   "province_name": "Agusan Del Sur",
+   "psgc_code": 160300000,
+   "region_code": 16,
+   "philex_id": "",
+   "value": 1603,
+   "label": "Agusan Del Sur"
+ },
+ {
+   "province_code": 1667,
+   "province_name": "Surigao Del Norte",
+   "psgc_code": 166700000,
+   "region_code": 16,
+   "philex_id": "",
+   "value": 1667,
+   "label": "Surigao Del Norte"
+ },
+ {
+   "province_code": 1668,
+   "province_name": "Surigao Del Sur",
+   "psgc_code": 166800000,
+   "region_code": 16,
+   "philex_id": "",
+   "value": 1668,
+   "label": "Surigao Del Sur"
+ },
+ {
+   "province_code": 1685,
+   "province_name": "Dinagat Islands",
+   "psgc_code": 168500000,
+   "region_code": 16,
+   "philex_id": "",
+   "value": 1685,
+   "label": "Dinagat Islands"
+ }
+]
